@@ -42,7 +42,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Authors
 
-* **Avinash Maurya** [](https://github.com/Aviking88)
+* [**Avinash Maurya**](https://github.com/Aviking88)
 
 ## License
 
